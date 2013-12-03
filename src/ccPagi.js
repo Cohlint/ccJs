@@ -3,7 +3,7 @@
  * This jquery plugin is use for set pagination more convenient and flexible
  * Copyright 2013 Cohlint
  * Released under the MIT license
- * https://github.com/Cohlint
+ * https://github.com/Cohlint/ccJs
  * v0.2.0
  * eg:
  *  $(el).ccPagi({callback: function(offset, size){} })   //init pagi event

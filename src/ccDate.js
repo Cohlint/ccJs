@@ -3,7 +3,7 @@
  * This jquery plugin is use for date format, reference [Steven Levithan "http://blog.stevenlevithan.com/archives/date-time-format"]
  * Copyright 2013 Cohlint
  * Released under the MIT license
- * https://github.com/Cohlint
+ * https://github.com/Cohlint/ccJs
  * v0.1.0
  * ======================================================================== */
 

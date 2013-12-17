@@ -4,7 +4,7 @@
  * Copyright 2013 Cohlint
  * Released under the MIT license
  * https://github.com/Cohlint/ccJs
- * v0.2.0
+ * v0.2.1
  * eg:
  *  $(el).ccPagi({callback: function(offset, size){} })   //init pagi event
  *  $(el).ccPagi({totalNum: number})            //update status
@@ -83,7 +83,6 @@
 
 		// related elements
 		var $el = this.$element;
-		var $totalNum = $el.find(this.options.totalNumClass);
 		var $totalPage = $el.find(this.options.totalPageClass);
 		var $currPage = $el.find(this.options.currPageClass);
 		var $pageSize = $el.find(this.options.sltChangeSizeClass);
